@@ -1,12 +1,13 @@
 #ddos_dataset.csv
 .ipynb_checkpoints/
 
-
 # Python virtualenv
 venv/
+.*env/
 .env/
 __pycache__/
 *.pyc
+.*/
 
 #Jupite checkpoints
 *checkpoints/
